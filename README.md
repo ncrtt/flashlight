@@ -3,6 +3,8 @@ Desafio dio: Meu primeiro contato com mobile foi construir um app usando o senso
 
 ## O que utilizei no projeto?
 
-React Native
+React Native 
+
 Importação de Bibliotecas: react-native-torch e react-native-shake
+
 Android Studio
