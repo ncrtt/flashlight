@@ -8,3 +8,8 @@ React Native
 Importação de Bibliotecas: react-native-torch e react-native-shake
 
 Android Studio
+
+
+## O que ainda falta fazer?
+
+Criar APK do projeto e postar no github
